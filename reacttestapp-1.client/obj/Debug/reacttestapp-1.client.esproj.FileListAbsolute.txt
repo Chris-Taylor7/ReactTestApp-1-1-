@@ -1,0 +1,1 @@
+C:\local Source\ReactTestApp-1\reacttestapp-1.client\obj\Debug\reacttestapp-1.client.esproj.CoreCompileInputs.cache

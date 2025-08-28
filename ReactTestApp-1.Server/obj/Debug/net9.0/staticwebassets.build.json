@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "n6UKYELSv+wchQyIzXZnMMKC7L7HCvL/04vyMwDSZFQ=",
+  "Source": "ReactTestApp-1.Server",
+  "BasePath": "_content/ReactTestApp-1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\local Source\\ReactTestApp-1\\reacttestapp-1.client\\reacttestapp-1.client.esproj",
+      "Version": 2,
+      "Source": "reacttestapp-1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
